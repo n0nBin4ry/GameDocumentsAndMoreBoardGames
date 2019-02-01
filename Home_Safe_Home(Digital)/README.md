@@ -1,4 +1,4 @@
-#Home, Safe Home (Global Game Jam 2019)
+Home, Safe Home (Global Game Jam 2019)
 - A tower defense game where you protect your home from the elements
 - I was Lead/Sole Designer
 - The source and executable are in this repository: https://github.com/elbapotsnugg/GGJ2019
