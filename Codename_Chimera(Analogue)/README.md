@@ -17,7 +17,7 @@ There are endless combinations of cards and their abilities, making each session
 
 ### Card Artists: Jorge Sandoval & Frankie SC
 
-### Co-Designers: We all worked together to deisng the game and its systems.
+### Co-Designers: We all worked together to design the game and its systems.
 
 #### Note: 
 - Not only did we have part in designing the abilities/stats of the cards, but we also each contributed in the concept art of the cards. Though our Card Artists put in the finishing touches and had final say in the art of each card.
