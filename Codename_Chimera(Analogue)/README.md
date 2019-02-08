@@ -13,6 +13,9 @@ There are endless combinations of cards and their abilities, making each session
 
 ### Co-Designers: We all worked together to deisng the game and its systems.
 
+#### Note: 
+- Not only did we have part in designing the abilities/stats of the cards, but we also each contributed in the concept art of the cards. Though our Card Artists put in the finishing touches and had final say in the art of each card.
+
 ## Files:
 - In this repository you will find both the plain text and PDF (with art!) versions of the rulebook.
   - The PDF version is for a booklet so the first and last pages are the front and back covers, respectively.
