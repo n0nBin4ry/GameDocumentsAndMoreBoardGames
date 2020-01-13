@@ -20,7 +20,7 @@ There are endless combinations of cards and their abilities, making each session
 ## Credits:
 ### Director & Rules Artist: Preston Taylor
 
-### Producer & Rule-Compiler: Richard Flores
+### Producer & Rules Documentor/Writer: Richard Flores
 
 ### Card Artists: Jorge Sandoval & Frankie SC
 
